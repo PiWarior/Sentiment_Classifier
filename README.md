@@ -14,8 +14,8 @@ pip install transformers torch scikit-learn datasets
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/PiWarior/Sentiment_Classifier.git
+   cd Sentiment_Classifier
    ```
 
 2. Install dependencies:
@@ -98,15 +98,8 @@ Predicted Sentiment: Negative (Confidence: 1.00)
  ├── README.md                    # This file
 ```
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT** License.
-
----
 
 ## ✨ Author
 
-- **Your Name** - [GitHub](https://github.com/your-profile)
+- **PiWarior** - [GitHub](https://github.com/PiWarior)
 
